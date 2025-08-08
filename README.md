@@ -1,4 +1,10 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="animated guy coding" 
+       width="250" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Shanmukha Siva</h1>
 <h3 align="center">A Computer Science Student from IIT Bhilai</h3>
