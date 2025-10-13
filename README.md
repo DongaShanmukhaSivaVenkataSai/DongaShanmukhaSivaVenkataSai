@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Shanmukha Siva</h1>
 <h3 align="center">A Computer Science Student from IIT Bhilai</h3>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **shanmukhasiva0@gmail.com**
 
