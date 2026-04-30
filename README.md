@@ -7,9 +7,8 @@
 
 
 <h1 align="center">Hi 👋, I'm shanmukha siva</h1>
-<h3 align="center">A backend web developer from India</h3>
 
-- 🌱 I’m currently learning **Fast api**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
